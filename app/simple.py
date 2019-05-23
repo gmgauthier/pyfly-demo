@@ -1,4 +1,3 @@
-import threading
 from random import randint
 from secrets import choice
 from string import ascii_letters

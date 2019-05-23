@@ -1,11 +1,10 @@
 import json
-from app import simple
-
+from app.simple import app
 
 class TestSimple:
 
     def setup(self):
-        self.app = simple.app.test_client()
+        self.app = app.test_client()
 
     def teardown(self):
         pass
