@@ -27,3 +27,56 @@ I'm not sure if the hoverfly CLI binaries are actually necessary for the python 
 Why does it matter that we're using stored session data, rather than executing asserts during an active session? Well, for one thing, the stored session data could be used to execute mocked tests at a later date (the server need not be live). Or, mock sessions could be used to model CONTRACTS. Or, they could be used for ongoing development on a new endpoint.
 
 More experimentation needs to be done, to determine the full value of the tool.
+
+### INSTALLATION EXAMPLE:
+```
+[13:48:24][~/Repositories/gitlab/gregory/pyfly-demo]
+gregory@orpheus $ ./install.sh                                                                                                                         (28m) |[master] 
+PREPARING PYTHON3 ENVIRONMENT...
+PREPARING HOVERFLY INSTALLATION...
+PREPARING PROJECT VIRTUAL ENVIRONMENT...
+Python 3.7.3
+        pipenv==2018.11.26
+Dependency Graph:
+Flask==1.0.3
+  - click [required: >=5.1, installed: 7.0]
+  - itsdangerous [required: >=0.24, installed: 1.1.0]
+  - Jinja2 [required: >=2.10, installed: 2.10.1]
+    - MarkupSafe [required: >=0.23, installed: 1.1.1]
+  - Werkzeug [required: >=0.14, installed: 0.15.4]
+hoverpy==0.2.2
+  - requests [required: Any, installed: 2.22.0]
+    - certifi [required: >=2017.4.17, installed: 2019.3.9]
+    - chardet [required: >=3.0.2,<3.1.0, installed: 3.0.4]
+    - idna [required: >=2.5,<2.9, installed: 2.8]
+    - urllib3 [required: >=1.21.1,<1.26,!=1.25.1,!=1.25.0, installed: 1.25.2]
+pytest==4.5.0
+  - atomicwrites [required: >=1.0, installed: 1.3.0]
+  - attrs [required: >=17.4.0, installed: 19.1.0]
+  - more-itertools [required: >=4.0.0, installed: 7.0.0]
+  - pluggy [required: >=0.9,<1.0,!=0.10, installed: 0.11.0]
+  - py [required: >=1.5.0, installed: 1.8.0]
+  - setuptools [required: Any, installed: 41.0.1]
+  - six [required: >=1.10.0, installed: 1.12.0]
+  - wcwidth [required: Any, installed: 0.1.7]
+ALL SYSTEMS GO!
+```
+
+### EXECUTION EXAMPLE:
+
+```
+[13:22:37][~/Repositories/gitlab/gregory/pyfly-demo]
+gregory@orpheus $ ./rundemo.sh                                                                                                                          (2m) |[master] 
+========================================================================= test session starts ==========================================================================
+platform darwin -- Python 3.7.3, pytest-4.5.0, py-1.8.0, pluggy-0.11.0 -- /Users/gregory/.virtualenvs/pyfly-demo-Cl6C4Sqb/bin/python
+cachedir: .pytest_cache
+rootdir: /Users/gregory/Repositories/gitlab/gregory/pyfly-demo
+collected 4 items                                                                                                                                                      
+
+tests/test_hov.py::TestUsingHoverpy::test_version_call PASSED                                                                                                    [ 25%]
+tests/test_hov.py::TestUsingHoverpy::test_random_numbers PASSED                                                                                                  [ 50%]
+tests/test_hov.py::TestUsingHoverpy::test_random_string PASSED                                                                                                   [ 75%]
+tests/test_hov.py::TestUsingHoverpy::test_hashname PASSED                                                                                                        [100%]
+
+======================================================================= 4 passed in 0.62 seconds =======================================================================
+```
