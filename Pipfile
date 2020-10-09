@@ -10,9 +10,8 @@ pytest = "*"
 
 [packages]
 flask = "*"
-hoverpy = "*"
+hoverpy = "~=0.2.2"
 pytest = "*"
 
 [requires]
-python_version = "3.7"
-
+python_version = "3.8"

@@ -1,0 +1,2141 @@
+DEBUG:root:starting 4450064872
+DEBUG:root:flags:['-capture', '-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 6754
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4340124248
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 7137
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:root:starting 4348325056
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 7304
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:root:starting 4368526976
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 7304
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 7348
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4452923992
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 7348
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 7431
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4488195544
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 7432
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4528528016
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 7432
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 7467
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4539473424
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 7467
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 7468
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4391807464
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 7468
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 7487
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4447119624
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 7501
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4443413360
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 8349
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4394766008
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 8349
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 8350
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4382697680
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 8350
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 8408
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4548181520
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 8408
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 8409
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4587897408
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 8409
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 8710
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:5555/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4464350040
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 8758
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4490154392
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 8758
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 8819
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4365193512
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 8819
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 8875
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4362623352
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 8875
+DEBUG:root:flags:['-db-path', 'version.json', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 8972
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:9999/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4437096712
+DEBUG:root:flags:['-capture', '-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 9015
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+INFO:werkzeug: * Running on http://127.0.0.1:9999/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4600416632
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 9015
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 9345
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4422758184
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 9345
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 9346
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+INFO:werkzeug: * Running on http://127.0.0.1:9999/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4590644080
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 9346
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 9387
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4471868888
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 9387
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 9388
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:9999/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+INFO:werkzeug: * Running on http://127.0.0.1:9999/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4527845840
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 9728
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4437608320
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 9728
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 9730
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+INFO:werkzeug: * Running on http://127.0.0.1:9999/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4394673152
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 9730
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 9808
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4438331288
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 9808
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 9809
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+INFO:werkzeug: * Running on http://127.0.0.1:9999/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4484848664
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 9809
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 9940
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4537200032
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 9940
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 9941
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+INFO:werkzeug: * Running on http://127.0.0.1:9999/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4473707208
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 9941
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 10008
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4517248696
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 10008
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 10009
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4534446736
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 10009
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 10072
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:9999/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4403775920
+DEBUG:root:flags:['-db-path', 'version', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 10113
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:9999/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:9999
+DEBUG:urllib3.connectionpool:http://127.0.0.1:9999 "GET /version HTTP/1.1" 200 45
+INFO:werkzeug: * Running on http://127.0.0.1:9999/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:9999
+INFO:werkzeug:127.0.0.1 - - [21/May/2019 17:49:29] "GET /version HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:http://127.0.0.1:9999 "GET /version HTTP/1.1" 200 45
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:9999
+DEBUG:root:starting 4412347448
+DEBUG:root:flags:['-capture', '-db-path', 'versions.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 14276
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:root:starting 4395357296
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 14276
+DEBUG:root:flags:['-db-path', 'versions.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 14331
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4564567152
+DEBUG:root:flags:['-db-path', 'versions.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 14374
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4462763368
+DEBUG:root:flags:['-db-path', 'versions.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 14884
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:root:starting 4541330488
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:killing 14884
+DEBUG:root:flags:['-db-path', 'versions.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 15369
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4561036120
+DEBUG:root:flags:['-db-path', 'versions.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 15394
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:root:starting 4543939472
+DEBUG:root:flags:['-capture', '-db-path', 'tests/versions.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 15439
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4380472264
+DEBUG:root:flags:['-db-path', 'tests/versions.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 15529
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4558152144
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 15589
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4535038976
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 15681
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4365935448
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 19267
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:root:starting 4539964496
+DEBUG:root:flags:['-db', 'memory', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 20138
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 404 19
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:root:starting 4473878456
+DEBUG:root:pid file exists.. killing it
+DEBUG:root:nothing to clean up
+DEBUG:root:flags:['-db', 'memory', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 20260
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:root:starting 4377632272
+DEBUG:root:flags:['-db', 'memory', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 20316
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4521351488
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 24096
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:root:starting 4525665528
+DEBUG:root:flags:['-db', 'memory', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 24097
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4466873232
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 24153
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:root:starting 4474467104
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 24219
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4442946024
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25014
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4349865488
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25015
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4571675280
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25023
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4348684608
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25025
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:5000/version HTTP/1.1" 502 191
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4441758352
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25030
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4480350808
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25101
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4470381816
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25102
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4434922016
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25109
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4469197680
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25110
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4426566176
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25117
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:root:starting 4594526976
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25189
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4594526248
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25190
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:root:starting 4517231360
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25243
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4517230856
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25244
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:5000/version HTTP/1.1" 502 191
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:root:starting 4417095720
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25338
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4417095664
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25339
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): time.jsontest.com:80
+DEBUG:urllib3.connectionpool:http://time.jsontest.com:80 "GET / HTTP/1.1" 200 100
+DEBUG:root:starting 4366029600
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25409
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4366030440
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25410
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4590502352
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25470
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4522107176
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25545
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4475862712
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25630
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://localhost:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4373843584
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25655
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4362159048
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25694
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4357854936
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25695
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4416254696
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25729
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4416255424
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25730
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4341933224
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25850
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4337629056
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 25851
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4461134792
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26173
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4456830232
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26174
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4358177568
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26315
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4358178408
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26316
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4396680360
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26349
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4392376192
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26350
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4383634376
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26640
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4380463792
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26641
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4382954720
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26673
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4378650664
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26674
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4332065512
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26698
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4332066240
+DEBUG:root:flags:['-db-path', 'tests/test_version.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26700
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 119
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4354843536
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26738
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4354844264
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26739
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4558161008
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (5): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26795
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4558161792
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26796
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4413776560
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26933
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4425308704
+DEBUG:root:flags:['-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 26934
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4341527664
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (5): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (6): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27021
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4341528784
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27022
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4560381152
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27120
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4564691208
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27121
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4418295904
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27197
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4422593056
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27198
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4595446392
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27359
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4589460896
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27360
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+INFO:werkzeug:127.0.0.1 - - [22/May/2019 18:01:07] "GET /version HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4513309640
+DEBUG:root:flags:['-db-path', 'tests/test_time2.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27361
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://time.jsontest.com/ HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4515032760
+DEBUG:root:flags:['-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27362
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-961-099
+DEBUG:root:starting 4396670928
+DEBUG:root:flags:['-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (5): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27480
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4441695344
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27481
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:root:starting 4568019856
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27628
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:root:starting 4417716632
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27684
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:root:starting 4332802000
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 27790
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:root:starting 4449789152
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 28014
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4407944136
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 28861
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4392817496
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 28962
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4580565568
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 29032
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4418745344
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 29343
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4587729864
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 29648
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4503929744
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 29714
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4561687608
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 29832
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4563108920
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 29873
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4588983240
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 29959
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 502 195
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4395180832
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 30266
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4583772904
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 30548
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4538503408
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 50638
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4332855080
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (5): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 50822
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4556478896
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 50951
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4585147192
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 51008
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4390343008
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 51356
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4390343400
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_numbers.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 51360
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 81
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4390416336
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_string.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 51361
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 84
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4418580888
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52095
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4418580720
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_numbers.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52099
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 86
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4418664880
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_string.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52100
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 94
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4359815464
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52133
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4359815408
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_numbers.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52137
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 82
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4359899624
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_string.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52138
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 44
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4360193472
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_hashname.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52139
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "POST http://127.0.0.1:5000/hashname HTTP/1.1" 200 60
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4416471280
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52228
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4416472960
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_numbers.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52232
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 47
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4416551848
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_string.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52233
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 87
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4416637864
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_hashname.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52234
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "POST http://127.0.0.1:5000/hashname HTTP/1.1" 200 60
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4585308736
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52290
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4585308568
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_numbers.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52294
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 100
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4589640616
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_string.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52295
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 57
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4589932728
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_hashname.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52296
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "POST http://127.0.0.1:5000/hashname HTTP/1.1" 200 60
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4527960416
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52345
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4527960416
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_numbers.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52349
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 31
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4528040928
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_string.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52350
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 82
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4528315248
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_hashname.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52351
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "POST http://127.0.0.1:5000/hashname HTTP/1.1" 200 60
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4329685456
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (5): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52380
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4334018288
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_numbers.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52385
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 55
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4334288624
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_string.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52386
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 82
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4334287056
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_hashname.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52387
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "POST http://127.0.0.1:5000/hashname HTTP/1.1" 200 60
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4520981280
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52428
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4520983520
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_numbers.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52432
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 99
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4525312992
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_string.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52433
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 36
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4525607288
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_hashname.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52434
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "POST http://127.0.0.1:5000/hashname HTTP/1.1" 200 60
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4349596392
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52526
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4349596392
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_numbers.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52530
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 62
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4353912224
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_string.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52531
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 101
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4354212248
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_hashname.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 52532
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "POST http://127.0.0.1:5000/hashname HTTP/1.1" 200 60
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4395521024
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 56378
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4399852680
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_numbers.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 56382
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 42
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4400127952
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_string.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 56384
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 105
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4400127728
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_hashname.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 56385
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "POST http://127.0.0.1:5000/hashname HTTP/1.1" 200 60
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4395682000
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_version_call.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (3): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (4): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 6160
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/version HTTP/1.1" 200 45
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4400095584
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_numbers.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 6164
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 31
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4400268008
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_random_string.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 6166
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "GET http://127.0.0.1:5000/randoms HTTP/1.1" 200 65
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:root:starting 4400268400
+DEBUG:root:flags:['-capture', '-db-path', 'tests/test_hashname.db', '-db', 'boltdb', '-pp', '8500', '-ap', '8888']
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8888
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (2): localhost:8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "GET /api/health HTTP/1.1" 200 34
+DEBUG:root:has pid 6167
+DEBUG:root:writing to /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
+DEBUG:urllib3.connectionpool:http://localhost:8888 "PUT /api/delays HTTP/1.1" 201 39
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8500
+DEBUG:urllib3.connectionpool:http://localhost:8500 "POST http://127.0.0.1:5000/hashname HTTP/1.1" 200 60
+DEBUG:root:stopping
+DEBUG:root:deleting /var/folders/gn/lg8xlbk53sg5bdnvvz2mpdj4000tf6/T/hoverpy.8500.8888
