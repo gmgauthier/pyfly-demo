@@ -18,6 +18,7 @@ if [[ "$PY" = "python3 not found" ]];
 fi
 
 echo "PREPARING HOVERFLY INSTALLATION..."
+# shellcheck disable=SC2039
 if [[ "$HC" = "hoverctl not found" ]];
     then
         echo "HoverFly CLI binary not found. Attempting install now..."

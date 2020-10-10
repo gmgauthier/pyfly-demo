@@ -8,11 +8,6 @@ class TestUsingHoverpy:
 
     root_url = "http://127.0.0.1:5000"
 
-    def setup_class(self):
-        # startup the simple server (only needed for this example)
-        # This will get destroyed automatically, when the tests end
-        Popen("sh pipenv run python app/simple.py", shell=True, stdout=PIPE, stderr=PIPE)
-
     def teardown_class(self):
         # deletes the captured sessions
         os.remove("tests/test_version_call.db")
